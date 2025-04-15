@@ -1,0 +1,5 @@
+1)PbO + C ==== Pb + CO  
+2) 2 Pb + O2 + 4 CH3COOH ==== 2 Pb(CH3COO)2 + 2 H2O 
+Pb(CH3COO)2 + CaOCl2 + H2O ==== PbO2 + CaCl2 + 2 CH3COOH 
+3) 2 PbO2 + 4 HNO3 ==== 2 Pb(NO3)2 + O2 + 2 H2O 
+4) 2 Pb(NO3)2 + 2 Na2CO3 + H2O ==== PbCO3*Pb(OH)2 + CO2+ 4 NaNO3 

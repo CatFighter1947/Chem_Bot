@@ -1,0 +1,6 @@
+1) Ge + 2 Cl2 -t-> GeCl4
+2 GeCl4 + (2+n) H2O -> GeO2 * nH2O + 4 HCl
+GeCl4 + 3 H2O -> H2GeO3 + 4 HCl
+3) H2GeO3 -(t)-> GeO2 + H2O
+4) GeO2 + 4 HClг -(t)-> GeCl4 + 2 H2O
+GeCl4 + Ge -> 2 GeCl2

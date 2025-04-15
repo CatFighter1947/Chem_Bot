@@ -1,0 +1,5 @@
+1) SiCl4 + 2 Zn -(t)-> Si + ZnCl2
+2) Si + C -(t)-> SiC
+3) SiC + 2 O2 + 4 NaOH расплав -(t)-> Na2SiO3 + Na2CO3 + 2 H2O
+4) Na2SiO3 + 2 HCl → 2 NaCl + SiO2 * n H2O
+SiO2 * n H2O -(t)-> SiO2 + n H2O

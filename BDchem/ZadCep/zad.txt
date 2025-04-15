@@ -1,0 +1,27 @@
+KCl → KOH → K → KH → KCl
+Cs → CsO2 → CsOH → Cs2CO3 → CsCH3COO
+Li → LiHCO3 → Li2CO3 → LiNO3 --t-> ...
+CsCl → Cs → CsOH → CsCl → Cs2S
+KH → KHCOO → KNO3 → KNO2 → K2SO4
+Li3N → ... → Li3PO4 → LiNO3 t-> ...
+Na → NaNH2 → NaOH → NaHCO3 → Na2CO3
+Cs → Cs2SO4 → Cs2S → CsCl → Cs
+LiCl → LiNO3 --t-> ... → LiOH → LiHCO3
+NaOH → Na → NaNH2 → NaCl → NaHCO3
+Li2O * Al2O3 * 4SiO2 → Li[Al(OH)4(H2O)2] → LiCl → Li → Li3N
+... → RbO2 → RbOH → RbNO3 → RbNO2
+Be → K2[Be(OH)4] → K2BeO2 → BeSO4 → Be(OH)2 * BeCO3
+CaCl2 → Ca → Ca3N2 → ... → CaOCl2
+BaSO4 → BaS → BaCl2 → Ba → Ba(NO3)2
+BeSO4 → BeS → Na2[Be(OH)4] → Na2BeO2 → BeSO4
+Mg → Mg(NO3)2 → Mg(OH)2 → Mg → Mg3N2
+Ca(HCO3)2 → CaCO3 → CaO → CaC2 → CaCl2
+MgCl2 → Mg(OH)2 * MgCO3 → Mg(CH3COO)2 → MgCO3 → MgO
+CaC2 → Ca(OH)2 → Ca(HCO3)2 → CaCO3 → CaO
+Be(OH)2 → K2[Be(OH)4] → BeCl2 → Be → Be2C
+Be2C → BeSO4 → Be(OH)2  BeCO3 → Be(NO3)2 --t-> ...
+Ba → BaCO3 → BaO → BaC2 → Ba(OH)2
+MgCO3 → MgO → Mg → MgCl2 → MgSO4
+Na2[Be(OH)4] → Na2BeO2 → Be(OH)2 * BeCO3 → Be(NO3)2 --t-> ...
+Mg(HCO3)2 → Mg(OH)2 * MgCO3 → MgO → Mg(OH)2 → MgBeO2
+CaSO4 → CaS → CaCl2 → Ca → Ca3N2

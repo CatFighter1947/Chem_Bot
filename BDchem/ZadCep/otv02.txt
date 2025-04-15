@@ -1,0 +1,5 @@
+1) Na2SiO3 + 2 HCl → 2 NaCl + SiO2 * n H2O
+SiO2 * n H2O -(t)-> SiO2 + n H2O
+2) SiO2 + 2 C + 2 Cl2 -(t)-> SiCl4^ + 2 CO
+3) SiCl4 + 2 Zn -(t)-> Si + ZnCl2
+4) 3 Si + 4 HNO3конц + 18 HFконц -> 3 H2[SiF6] + 4 NO + 8 H2O

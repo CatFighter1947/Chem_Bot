@@ -1,0 +1,8 @@
+# Test files, venv, keys, cash
+\file_creator.py
+\tg_botdb.py
+\bdtest
+\.idea
+\.venv
+\const.py
+\__pycache__
